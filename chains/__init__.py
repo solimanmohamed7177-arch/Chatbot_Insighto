@@ -1,0 +1,1 @@
+"""Insighto — chains package"""

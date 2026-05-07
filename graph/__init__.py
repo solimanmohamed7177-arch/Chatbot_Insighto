@@ -1,0 +1,1 @@
+"""Insighto — graph package"""

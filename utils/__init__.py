@@ -1,0 +1,1 @@
+"""Insighto — utils package"""
